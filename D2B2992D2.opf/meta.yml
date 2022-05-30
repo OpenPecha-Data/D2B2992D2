@@ -1,0 +1,22 @@
+id: D2B2992D2
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-12-31T06:53:10+00:00'
+last_modified: '2022-05-30T04:19:15.801393+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    d9a8:
+      image_group_id: I1PD95941
+      title: ཡོན་ཏན་བདུན་ཡོངས་སུ་བརྗོད་པའི་གཏམ།
+      total_pages: 1144
+      order: 96
+      base_file: d9a8.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
